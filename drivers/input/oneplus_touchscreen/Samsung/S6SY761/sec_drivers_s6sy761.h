@@ -1,14 +1,14 @@
 /***********************************************************
 * Description : OnePlus touchpanel driver
-* 
-* File		  : sec_drivers_s6sy761.h 
+*
+* File		  : sec_drivers_s6sy761.h
 *
 * Function	  : third party interface
-* 
+*
 * Source	  : provide by LSI
 *
 * Version	  : V1.0
-*
+
 ***********************************************************/
 #ifndef SEC_H_S6SY761
 #define SEC_H_S6SY761
